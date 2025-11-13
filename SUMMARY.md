@@ -12,6 +12,7 @@
 ## Modded Android
 
 * [Overview of Modded Android](modded-android/overview-of-modded-android.md)
+* [the Development Repo](modded-android/the-development-repo.md)
 
 ## AWFixerOS
 
@@ -27,6 +28,7 @@
 * [Pull Request Convention](general-notices/pull-request-convention.md)
 * [Conventional Commits](general-notices/conventional-commits.md)
 * [Semantic Versioning](general-notices/semantic-versioning.md)
+* [Branching](general-notices/branching.md)
 
 ## Tooling
 

@@ -26,7 +26,7 @@ if you are looking for technical information about each repo we also maintain th
 
 
 
-[![widget](https://inv.wtf/widget/awfixerandfriends)](https://discord.awfixer.com)
+<figure><img src="https://inv.wtf/widget/awfixerandfriends" alt=""><figcaption></figcaption></figure>
 
 ### AWFixer and Friends CTA:
 

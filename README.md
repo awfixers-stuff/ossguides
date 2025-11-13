@@ -24,13 +24,13 @@ detailed guides on basically anything. We will reference docs for anything as th
 
 if you are looking for technical information about each repo we also maintain the wiki on github, which will allow you to see technical notes about things like code and design ideas we have and how we are implementing them.
 
-## Our Discord
+## Our [Discord](https://discord.awfixer.com/)
 
 you can join the discord for any questions that you may have. We love to help you help us <3
 
 <figure><img src="https://inv.wtf/widget/awfixerandfriends" alt=""><figcaption></figcaption></figure>
 
-### AWFixer and Friends CTA:
+### [AWFixer and Friends](https://awfixer.com/) CTA:
 
 This Project is necessary since toxic elements within OSS projects, moles from BigTech, are boycotting any substantial work, in order to destroy the "projects", to eliminate competition of their own products. Classic "embrace, extend, extinguish" tactics.
 

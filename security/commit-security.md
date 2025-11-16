@@ -10,11 +10,9 @@ if you use the `gh` tool for cloning github repos, you can not longer use that t
 
 ## Accessing Our Repositories
 
-
-
 {% embed url="https://docs.mergify.com/" %}
 
-
+We do not allow access to our repos via anything other than SSH (github allows repo cloning via https, we block pushes via https though)
 
 
 
